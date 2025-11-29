@@ -1,0 +1,6 @@
+flask>=2.0
+flask-cors>=3.0
+pillow>=9.0
+numpy>=1.23
+# Optional: TensorFlow for training & real inference. Install only if you need it.
+tensorflow>=2.11.0
